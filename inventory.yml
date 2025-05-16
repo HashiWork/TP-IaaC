@@ -1,14 +1,14 @@
 webservers:
   hosts:
     frontend:
-      ansible_host: ec2-16-171-16-67.eu-north-1.compute.amazonaws.com
+      ansible_host: eXXXX.eu-north-1.compute.amazonaws.com
     backend:
-      ansible_host: ec2-51-21-202-94.eu-north-1.compute.amazonaws.com
+      ansible_host: eXXXX.eu-north-1.compute.amazonaws.com
 
 databases:
   hosts:
     database:
-      ansible_host: ec2-51-21-202-94.eu-north-1.compute.amazonaws.com
+      ansible_host: eXXXX.eu-north-1.compute.amazonaws.com
 
 fcs:
   children:
