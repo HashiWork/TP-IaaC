@@ -160,9 +160,3 @@ terraform.exe destroy
 ```
 
 * Les ressources sont détruites proprement.
-
----
-
-## ✅ Contact
-
-En cas de questions, vous pouvez me contacter : Samuel SERUSIER
